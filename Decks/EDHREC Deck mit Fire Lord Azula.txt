@@ -1,0 +1,400 @@
+# EDHREC Deck mit Fire Lord Azula
+# Exportiert: 2026-04-16 08:20:38
+
+## Commander
+1 Fire Lord Azula (TLA)
+   Mana: {1}{U}{B}{R}
+   Type: Legendary Creature — Human Noble
+   Text: Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)
+Whenever you cast a spell while Fire Lord Azula is attacking, copy that spell. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)
+
+
+## Creatures (10)
+1 Anger (AFC)
+   Mana: {3}{R}
+   Type: Creature — Incarnation
+   Text: Haste
+As long as this card is in your graveyard and you control a Mountain, creatures you control have haste.
+
+1 Combustion Man (TLA)
+   Mana: {3}{R}{R}
+   Type: Legendary Creature — Human Assassin
+   Text: Whenever Combustion Man attacks, destroy target permanent unless its controller has Combustion Man deal damage to them equal to his power.
+
+1 Firebending Student (TLA)
+   Mana: {1}{R}
+   Type: Creature — Human Monk
+   Text: Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Firebending X, where X is this creature's power. (Whenever this creature attacks, add X {R}. This mana lasts until end of combat.)
+
+1 Iroh, Dragon of the West (TLE)
+   Mana: {2}{R}{R}
+   Type: Legendary Creature — Human Noble Ally
+   Text: Haste
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+At the beginning of combat on your turn, each creature you control with a counter on it gains firebending 2 until end of turn. (Whenever it attacks, add {R}{R}. This mana lasts until end of combat.)
+
+1 Lo and Li, Twin Tutors (TLA)
+   Mana: {4}{B}
+   Type: Legendary Creature — Human Advisor
+   Text: When Lo and Li enter, search your library for a Lesson or Noble card, reveal it, put it into your hand, then shuffle.
+Noble creatures you control and Lesson spells you control have lifelink.
+
+1 Ozai, the Phoenix King (TLA)
+   Mana: {2}{B}{B}{R}{R}
+   Type: Legendary Creature — Human Noble
+   Text: Trample, firebending 4, haste
+If you would lose unspent mana, that mana becomes red instead.
+Ozai has flying and indestructible as long as you have six or more unspent mana.
+
+1 Ty Lee, Artful Acrobat (TLA)
+   Mana: {2}{R}
+   Type: Legendary Creature — Human Performer
+   Text: Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever Ty Lee attacks, you may pay {1}. When you do, target creature can't block this turn.
+
+1 Ty Lee, Chi Blocker (TLA)
+   Mana: {2}{U}
+   Type: Legendary Creature — Human Performer Ally
+   Text: Flash
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When Ty Lee enters, tap up to one target creature. It doesn't untap during its controller's untap step for as long as you control Ty Lee.
+
+1 Wan Shi Tong, Librarian (TLA)
+   Mana: {X}{U}{U}
+   Type: Legendary Creature — Bird Spirit
+   Text: Flash
+Flying, vigilance
+When Wan Shi Tong enters, put X +1/+1 counters on him. Then draw half X cards, rounded down.
+Whenever an opponent searches their library, put a +1/+1 counter on Wan Shi Tong and draw a card.
+
+1 Zuko, Firebending Master (TLE)
+   Mana: {1}{R}
+   Type: Legendary Creature — Human Noble Ally
+   Text: First strike
+Firebending X, where X is the number of experience counters you have. (Whenever this creature attacks, add X {R}. This mana lasts until end of combat.)
+Whenever you cast a spell during combat, you get an experience counter.
+
+
+## Instants (22)
+1 Bolt Bend (FDN)
+   Mana: {3}{R}
+   Type: Instant
+   Text: This spell costs {3} less to cast if you control a creature with power 4 or greater.
+Change the target of target spell or ability with a single target.
+
+1 Borne Upon a Wind (LTR)
+   Mana: {1}{U}
+   Type: Instant
+   Text: You may cast spells this turn as though they had flash.
+Draw a card.
+
+1 Brainstorm (DSC)
+   Mana: {U}
+   Type: Instant
+   Text: Draw three cards, then put two cards from your hand on top of your library in any order.
+
+1 Comet Storm (CMR)
+   Mana: {X}{R}{R}
+   Type: Instant
+   Text: Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.)
+Choose any target, then choose another target for each time this spell was kicked. Comet Storm deals X damage to each of them.
+
+1 Consumed by Greed (BLB)
+   Mana: {1}{B}{B}
+   Type: Instant
+   Text: Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)
+Target opponent sacrifices a creature with the greatest power among creatures they control. If the gift was promised, return target creature card from your graveyard to your hand.
+
+1 Counterspell (DSC)
+   Mana: {U}{U}
+   Type: Instant
+   Text: Counter target spell.
+
+1 Dark Ritual (2ED)
+   Mana: {B}
+   Type: Instant
+   Text: Add {B}{B}{B}.
+
+1 Dual Strike (KHM)
+   Mana: {R}{R}
+   Type: Instant
+   Text: When you next cast an instant or sorcery spell with mana value 4 or less this turn, copy that spell. You may choose new targets for the copy.
+Foretell {R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
+
+1 Electrodominance (TDC)
+   Mana: {X}{R}{R}
+   Type: Instant
+   Text: Electrodominance deals X damage to any target. You may cast a spell with mana value X or less from your hand without paying its mana cost.
+
+1 Expansion // Explosion (TDC)
+   Mana: {U/R}{U/R}
+   Type: Instant
+   Text: Expansion
+Copy target instant or sorcery spell with mana value 4 or less. You may choose new targets for the copy.
+--- Rückseite ---
+Explosion
+Explosion deals X damage to any target. Target player draws X cards.
+
+1 Fire Nation Attacks (TLA)
+   Mana: {4}{R}
+   Type: Instant
+   Text: Create two 2/2 red Soldier creature tokens with firebending 1. (Whenever a creature with firebending 1 attacks, add {R}. This mana lasts until end of combat.)
+Flashback {8}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+
+1 Frantic Confrontation (TLE)
+   Mana: {X}{R}
+   Type: Instant
+   Text: Target creature you control gets +X/+0 and gains first strike and trample until end of turn.
+
+1 Great Train Heist (OTJ)
+   Mana: {R}
+   Type: Instant
+   Text: Spree (Choose one or more additional costs.)
++ {2}{R} — Untap all creatures you control. If it's your combat phase, there is an additional combat phase after this phase.
++ {2} — Creatures you control get +1/+0 and gain first strike until end of turn.
++ {R} — Choose target opponent. Whenever a creature you control deals combat damage to that player this turn, create a tapped Treasure token.
+
+1 Lightning Bolt (CLU)
+   Mana: {R}
+   Type: Instant
+   Text: Lightning Bolt deals 3 damage to any target.
+
+1 Lunar Frenzy (MID)
+   Mana: {X}{R}
+   Type: Instant
+   Text: Target creature you control gets +X/+0 and gains first strike and trample until end of turn.
+
+1 Mystical Teachings (FDN)
+   Mana: {3}{U}
+   Type: Instant
+   Text: Search your library for an instant card or a card with flash, reveal it, put it into your hand, then shuffle.
+Flashback {5}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+
+1 Overwhelming Victory (TLE)
+   Mana: {4}{R}
+   Type: Instant — Lesson
+   Text: Overwhelming Victory deals 5 damage to target creature. Each creature you control gains trample and gets +X/+0 until end of turn, where X is the amount of excess damage dealt this way.
+
+1 Pull from Tomorrow (DRC)
+   Mana: {X}{U}{U}
+   Type: Instant
+   Text: Draw X cards, then discard a card.
+
+1 Storm King's Thunder (CLB)
+   Mana: {X}{R}{R}{R}
+   Type: Instant
+   Text: When you next cast an instant or sorcery spell this turn, copy that spell X times. You may choose new targets for the copies.
+
+1 The Last Agni Kai (TLA)
+   Mana: {1}{R}
+   Type: Instant
+   Text: Target creature you control fights target creature an opponent controls. If the creature the opponent controls is dealt excess damage this way, add that much {R}.
+Until end of turn, you don't lose unspent red mana as steps and phases end.
+
+1 Unexpected Windfall (AFR)
+   Mana: {2}{R}{R}
+   Type: Instant
+   Text: As an additional cost to cast this spell, discard a card.
+Draw two cards and create two Treasure tokens. (They're artifacts with "{T}, Sacrifice this token: Add one mana of any color.")
+
+1 Zuko's Conviction (TLA)
+   Mana: {B}
+   Type: Instant
+   Text: Kicker {4} (You may pay an additional {4} as you cast this spell.)
+Return target creature card from your graveyard to your hand. If this spell was kicked, instead put that card onto the battlefield tapped.
+
+
+## Sorceries (7)
+1 Crackle with Power (STX)
+   Mana: {X}{X}{X}{R}{R}
+   Type: Sorcery
+   Text: Crackle with Power deals five times X damage to each of up to X targets.
+
+1 Crashing Wave (TLA)
+   Mana: {U}{U}
+   Type: Sorcery
+   Text: As an additional cost to cast this spell, waterbend {X}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)
+Tap up to X target creatures, then distribute three stun counters among tapped creatures your opponents control. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+
+1 Hell to Pay (OTJ)
+   Mana: {X}{R}
+   Type: Sorcery
+   Text: Hell to Pay deals X damage to target creature. Create a number of tapped Treasure tokens equal to the amount of excess damage dealt to that creature this way.
+
+1 Scarring Memories (TLE)
+   Mana: {3}{B}
+   Type: Sorcery — Lesson
+   Text: You may cast this spell as though it had flash if you control an attacking legendary creature.
+Target opponent sacrifices a creature of their choice, discards a card, and loses 3 life.
+
+1 Sozin's Comet (TLA)
+   Mana: {3}{R}{R}
+   Type: Sorcery
+   Text: Each creature you control gains firebending 5 until end of turn. (Whenever it attacks, add {R}{R}{R}{R}{R}. This mana lasts until end of combat.)
+Foretell {2}{R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
+
+1 Vandalblast (OTC)
+   Mana: {R}
+   Type: Sorcery
+   Text: Destroy target artifact you don't control.
+Overload {4}{R} (You may cast this spell for its overload cost. If you do, change "target" in its text to "each.")
+
+1 Waterbending Lesson (TLA)
+   Mana: {3}{U}
+   Type: Sorcery — Lesson
+   Text: Draw three cards. Then discard a card unless you waterbend {2}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)
+
+
+## Enchantments (8)
+1 Coastal Piracy (JMP)
+   Mana: {2}{U}{U}
+   Type: Enchantment
+   Text: Whenever a creature you control deals combat damage to an opponent, you may draw a card.
+
+1 Cover of Darkness (ACR)
+   Mana: {1}{B}
+   Type: Enchantment
+   Text: As this enchantment enters, choose a creature type.
+Creatures of the chosen type have fear. (They can't be blocked except by artifact creatures and/or black creatures.)
+
+1 Dual Casting (AVR)
+   Mana: {1}{R}
+   Type: Enchantment — Aura
+   Text: Enchant creature
+Enchanted creature has "{R}, {T}: Copy target instant or sorcery spell you control. You may choose new targets for the copy."
+
+1 Fated Firepower (TLA)
+   Mana: {X}{R}{R}{R}
+   Type: Enchantment
+   Text: Flash
+This enchantment enters with X fire counters on it.
+If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus an amount of damage equal to the number of fire counters on this enchantment instead.
+
+1 Firebender Ascension (TLA)
+   Mana: {1}{R}
+   Type: Enchantment
+   Text: When this enchantment enters, create a 2/2 red Soldier creature token with firebending 1.
+Whenever a creature you control attacking causes a triggered ability of that creature to trigger, put a quest counter on this enchantment. Then if it has four or more quest counters on it, you may copy that ability. You may choose new targets for the copy.
+
+1 Leyline of Anticipation (CLB)
+   Mana: {2}{U}{U}
+   Type: Enchantment
+   Text: If this card is in your opening hand, you may begin the game with it on the battlefield.
+You may cast spells as though they had flash.
+
+1 Propaganda (OTC)
+   Mana: {2}{U}
+   Type: Enchantment
+   Text: Creatures can't attack you unless their controller pays {2} for each creature they control that's attacking you.
+
+1 Rising of the Day (LTR)
+   Mana: {2}{R}
+   Type: Enchantment
+   Text: Creatures you control have haste.
+Legendary creatures you control get +1/+0.
+
+
+## Artifacts (8)
+1 Arcane Signet (40K)
+   Mana: {2}
+   Type: Artifact
+   Text: {T}: Add one mana of any color in your commander's color identity.
+
+1 Bender's Waterskin (TLA)
+   Mana: {3}
+   Type: Artifact
+   Text: Untap this artifact during each other player's untap step.
+{T}: Add one mana of any color.
+
+1 Dimir Signet (CLU)
+   Mana: {2}
+   Type: Artifact
+   Text: {1}, {T}: Add {U}{B}.
+
+1 Fire Nation Turret (TLE)
+   Mana: {2}{R}
+   Type: Artifact
+   Text: At the beginning of combat on your turn, up to one target creature gets +2/+0 and gains firebending 2 until end of turn.
+{R}: Put a charge counter on this artifact.
+Remove fifty charge counters from this artifact: It deals 50 damage to any target.
+
+1 Sol Ring (SLD)
+   Mana: {1}
+   Type: Artifact
+   Text: {T}: Add {C}{C}.
+
+1 Thought Vessel (DSC)
+   Mana: {2}
+   Type: Artifact
+   Text: You have no maximum hand size.
+{T}: Add {C}.
+
+1 Trailblazer's Boots (OTC)
+   Mana: {2}
+   Type: Artifact — Equipment
+   Text: Equipped creature has nonbasic landwalk. (It can't be blocked as long as defending player controls a nonbasic land.)
+Equip {2}
+
+1 Twin Blades (TLA)
+   Mana: {2}{R}
+   Type: Artifact — Equipment
+   Text: Flash
+When this Equipment enters, attach it to target creature you control. That creature gains double strike until end of turn.
+Equipped creature gets +1/+1.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+
+
+## Lands (10)
+1 Agna Qel'a (TLA)
+   Type: Land
+   Text: This land enters tapped unless you control a basic land.
+{T}: Add {U}.
+{2}{U}, {T}: Draw a card, then discard a card.
+
+1 Cascade Bluffs (EOC)
+   Type: Land
+   Text: {T}: Add {C}.
+{U/R}, {T}: Add {U}{U}, {U}{R}, or {R}{R}.
+
+1 Command Beacon (TDC)
+   Type: Land
+   Text: {T}: Add {C}.
+{T}, Sacrifice this land: Put your commander into your hand from the command zone.
+
+1 Command Tower (40K)
+   Type: Land
+   Text: {T}: Add one mana of any color in your commander's color identity.
+
+1 Darkwater Catacombs (TDC)
+   Type: Land
+   Text: {1}, {T}: Add {U}{B}.
+
+1 Fire Nation Palace (TLA)
+   Type: Land
+   Text: This land enters tapped unless you control a basic land.
+{T}: Add {R}.
+{1}{R}, {T}: Target creature you control gains firebending 4 until end of turn. (Whenever it attacks, add {R}{R}{R}{R}. This mana lasts until end of combat.)
+
+1 Path of Ancestry (DRC)
+   Type: Land
+   Text: This land enters tapped.
+{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+
+1 Reliquary Tower (40K)
+   Type: Land
+   Text: You have no maximum hand size.
+{T}: Add {C}.
+
+1 Rogue's Passage (C20)
+   Type: Land
+   Text: {T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.
+
+1 Seething Landscape (MH3)
+   Type: Land
+   Text: {T}: Add {C}.
+{T}, Sacrifice this land: Search your library for a basic Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle.
+Cycling {U}{B}{R} ({U}{B}{R}, Discard this card: Draw a card.)
+
+

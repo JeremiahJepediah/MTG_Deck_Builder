@@ -1,0 +1,455 @@
+# Toph the Blind Bandit
+# Exportiert: 2026-01-20 09:02:38
+
+## Commander
+1 Toph, the Blind Bandit (TLA)
+   Mana: {2}{G}
+   Type: Legendary Creature — Human Warrior Ally
+   Text: When Toph enters, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)
+Toph's power is equal to the number of +1/+1 counters on lands you control.
+
+
+## Creatures (26)
+1 Ashaya, Soul of the Wild (DSC)
+   Mana: {3}{G}{G}
+   Type: Legendary Creature — Elemental
+   Text: Ashaya's power and toughness are each equal to the number of lands you control.
+Nontoken creatures you control are Forest lands in addition to their other types. (They're still affected by summoning sickness.)
+
+1 Avatar Kyoshi, Earthbender (TLE)
+   Mana: {5}{G}{G}{G}
+   Type: Legendary Creature — Human Avatar
+   Text: During your turn, Avatar Kyoshi has hexproof.
+At the beginning of combat on your turn, earthbend 8, then untap that land. (Target land you control becomes a 0/0 creature with haste that's still a land. Put eight +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)
+
+1 Badgermole (TLA)
+   Mana: {4}{G}
+   Type: Creature — Badger Mole
+   Text: When this creature enters, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)
+Creatures you control with +1/+1 counters on them have trample.
+
+1 Beast Whisperer (GRN)
+   Mana: {2}{G}{G}
+   Type: Creature — Elf Druid
+   Text: Whenever you cast a creature spell, draw a card.
+
+1 Benevolent Hydra (SLD)
+   Mana: {X}{G}{G}
+   Type: Creature — Hydra
+   Text: This creature enters with X +1/+1 counters on it.
+If one or more +1/+1 counters would be put on another creature you control, that many plus one +1/+1 counters are put on it instead.
+{T}, Remove a +1/+1 counter from this creature: Put a +1/+1 counter on another target creature you control.
+
+1 Bumi, Eclectic Earthbender (TLE)
+   Mana: {3}{G}{G}
+   Type: Legendary Creature — Human Noble Ally
+   Text: When Bumi enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)
+Whenever Bumi attacks, put two +1/+1 counters on each land creature you control.
+
+1 Earth Kingdom General (TLA)
+   Mana: {3}{G}
+   Type: Creature — Human Soldier Ally
+   Text: When this creature enters, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)
+Whenever you put one or more +1/+1 counters on a creature, you may gain that much life. Do this only once each turn.
+
+1 Earthbending Student (TLE)
+   Mana: {2}{G}
+   Type: Creature — Human Warrior Ally
+   Text: When this creature enters, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)
+Land creatures you control have vigilance. (Attacking doesn't cause them to tap.)
+
+1 Evolution Sage (LCC)
+   Mana: {2}{G}
+   Type: Creature — Elf Druid
+   Text: Landfall — Whenever a land you control enters, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+
+1 Flopsie, Bumi's Buddy (TLA)
+   Mana: {4}{G}{G}
+   Type: Legendary Creature — Ape Goat
+   Text: When Flopsie enters, put a +1/+1 counter on each creature you control.
+Each creature you control with power 4 or greater can't be blocked by more than one creature.
+
+1 Forgotten Ancient (C21)
+   Mana: {3}{G}
+   Type: Creature — Elemental
+   Text: Whenever a player casts a spell, you may put a +1/+1 counter on this creature.
+At the beginning of your upkeep, you may move any number of +1/+1 counters from this creature onto other creatures.
+
+1 Formidable Speaker (ECL)
+   Mana: {2}{G}
+   Type: Creature — Elf Druid
+   Text: When this creature enters, you may discard a card. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle.
+{1}, {T}: Untap another target permanent.
+
+1 Fungal Colossus (EOE)
+   Mana: {6}{G}
+   Type: Creature — Fungus Beast
+   Text: This spell costs {X} less to cast, where X is the number of differently named lands you control.
+
+1 Gemrazer (IKO)
+   Mana: {3}{G}
+   Type: Creature — Beast
+   Text: Mutate {1}{G}{G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Reach, trample
+Whenever this creature mutates, destroy target artifact or enchantment an opponent controls.
+
+1 Genesis Hydra (C20)
+   Mana: {X}{G}{G}
+   Type: Creature — Plant Hydra
+   Text: When you cast this spell, reveal the top X cards of your library. You may put a nonland permanent card with mana value X or less from among them onto the battlefield. Then shuffle the rest into your library.
+This creature enters with X +1/+1 counters on it.
+
+1 Great Divide Guide (TLA)
+   Mana: {1}{G}
+   Type: Creature — Human Scout Ally
+   Text: Each land and Ally you control has "{T}: Add one mana of any color."
+
+1 Haru, Hidden Talent (TLA)
+   Mana: {1}{G}
+   Type: Legendary Creature — Human Peasant Ally
+   Text: Whenever another Ally you control enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)
+
+1 Hungering Hydra (C20)
+   Mana: {X}{G}
+   Type: Creature — Hydra
+   Text: This creature enters with X +1/+1 counters on it.
+This creature can't be blocked by more than one creature.
+Whenever this creature is dealt damage, put that many +1/+1 counters on it. (It must survive the damage to get the counters.)
+
+1 Lifeblood Hydra (CMA)
+   Mana: {X}{G}{G}{G}
+   Type: Creature — Hydra
+   Text: Trample
+This creature enters with X +1/+1 counters on it.
+When this creature dies, you gain life and draw cards equal to its power.
+
+1 Managorger Hydra (MOC)
+   Mana: {2}{G}
+   Type: Creature — Hydra
+   Text: Trample
+Whenever a player casts a spell, put a +1/+1 counter on this creature.
+
+1 Mossborn Hydra (FDN)
+   Mana: {2}{G}
+   Type: Creature — Elemental Hydra
+   Text: Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+This creature enters with a +1/+1 counter on it.
+Landfall — Whenever a land you control enters, double the number of +1/+1 counters on this creature.
+
+1 Saber-Tooth Moose-Lion (TLA)
+   Mana: {4}{G}{G}
+   Type: Creature — Elk Cat
+   Text: Reach
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)
+
+1 Seedborn Muse (TDC)
+   Mana: {3}{G}{G}
+   Type: Creature — Spirit
+   Text: Untap all permanents you control during each other player's untap step.
+
+1 The Boulder, Ready to Rumble (TLA)
+   Mana: {3}{G}
+   Type: Legendary Creature — Human Warrior Performer
+   Text: Whenever The Boulder attacks, earthbend X, where X is the number of creatures you control with power 4 or greater. (Target land you control becomes a 0/0 creature with haste that's still a land. Put X +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)
+
+1 The Walls of Ba Sing Se (TLA)
+   Mana: {8}
+   Type: Legendary Artifact Creature — Wall
+   Text: Defender
+Other permanents you control have indestructible.
+
+1 Walltop Sentries (TLA)
+   Mana: {2}{G}
+   Type: Creature — Human Soldier Ally
+   Text: Reach, deathtouch
+When this creature dies, if there's a Lesson card in your graveyard, you gain 2 life.
+
+
+## Instants (12)
+1 Allies at Last (TLA)
+   Mana: {2}{G}
+   Type: Instant
+   Text: Affinity for Allies (This spell costs {1} less to cast for each Ally you control.)
+Up to two target creatures you control each deal damage equal to their power to target creature an opponent controls.
+
+1 Beast Within (BLC)
+   Mana: {2}{G}
+   Type: Instant
+   Text: Destroy target permanent. Its controller creates a 3/3 green Beast creature token.
+
+1 Crop Rotation (SLC)
+   Mana: {G}
+   Type: Instant
+   Text: As an additional cost to cast this spell, sacrifice a land.
+Search your library for a land card, put that card onto the battlefield, then shuffle.
+
+1 Cycle of Renewal (TLA)
+   Mana: {2}{G}
+   Type: Instant — Lesson
+   Text: Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+
+1 Heroic Intervention (TLE)
+   Mana: {1}{G}
+   Type: Instant
+   Text: Permanents you control gain hexproof and indestructible until end of turn.
+
+1 Inspiring Call (FDN)
+   Mana: {2}{G}
+   Type: Instant
+   Text: Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say "destroy" don't destroy them.)
+
+1 Nature's Claim (WWK)
+   Mana: {G}
+   Type: Instant
+   Text: Destroy target artifact or enchantment. Its controller gains 4 life.
+
+1 Origin of Metalbending (TLA)
+   Mana: {1}{G}
+   Type: Instant — Lesson
+   Text: Choose one —
+• Destroy target artifact or enchantment.
+• Put a +1/+1 counter on target creature you control. It gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
+
+1 Pillar Launch (TLA)
+   Mana: {G}
+   Type: Instant
+   Text: Target creature gets +2/+2 and gains reach until end of turn. Untap it.
+
+1 Return of the Wildspeaker (AFC)
+   Mana: {4}{G}
+   Type: Instant
+   Text: Choose one —
+• Draw cards equal to the greatest power among non-Human creatures you control.
+• Non-Human creatures you control get +3/+3 until end of turn.
+
+1 Rocky Rebuke (TLA)
+   Mana: {1}{G}
+   Type: Instant
+   Text: Target creature you control deals damage equal to its power to target creature an opponent controls.
+
+1 Zuko's Exile (TLA)
+   Mana: {5}
+   Type: Instant — Lesson
+   Text: Exile target artifact, creature, or enchantment. Its controller creates a Clue token. (It's an artifact with "{2}, Sacrifice this token: Draw a card.")
+
+
+## Sorceries (13)
+1 Cracked Earth Technique (TLE)
+   Mana: {4}{G}
+   Type: Sorcery — Lesson
+   Text: Earthbend 3, then earthbend 3. You gain 3 life. (To earthbend 3, target land you control becomes a 0/0 creature with haste that's still a land. Put three +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)
+
+1 Cultivate (FIC)
+   Mana: {2}{G}
+   Type: Sorcery
+   Text: Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
+
+1 Earth Rumble (TLA)
+   Mana: {3}{G}
+   Type: Sorcery
+   Text: Earthbend 2. When you do, up to one target creature you control fights target creature an opponent controls. (To earthbend 2, target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped. Creatures that fight each deal damage equal to their power to the other.)
+
+1 Earthbending Lesson (TLA)
+   Mana: {3}{G}
+   Type: Sorcery — Lesson
+   Text: Earthbend 4. (Target land you control becomes a 0/0 creature with haste that's still a land. Put four +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)
+
+1 Explore (OTC)
+   Mana: {1}{G}
+   Type: Sorcery
+   Text: You may play an additional land this turn.
+Draw a card.
+
+1 Harmonize (BLC)
+   Mana: {2}{G}{G}
+   Type: Sorcery
+   Text: Draw three cards.
+
+1 Rampant Growth (TDC)
+   Mana: {1}{G}
+   Type: Sorcery
+   Text: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+
+1 Rishkar's Expertise (M3C)
+   Mana: {4}{G}{G}
+   Type: Sorcery
+   Text: Draw cards equal to the greatest power among creatures you control.
+You may cast a spell with mana value 5 or less from your hand without paying its mana cost.
+
+1 Rockalanche (TLA)
+   Mana: {2}{G}
+   Type: Sorcery — Lesson
+   Text: Earthbend X, where X is the number of Forests you control. (Target land you control becomes a 0/0 creature with haste that's still a land. Put X +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)
+Flashback {5}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+
+1 Seismic Sense (TLA)
+   Mana: {G}
+   Type: Sorcery — Lesson
+   Text: Look at the top X cards of your library, where X is the number of lands you control. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+1 Shared Roots (TLA)
+   Mana: {1}{G}
+   Type: Sorcery — Lesson
+   Text: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+1 Traverse the Outlands (CLB)
+   Mana: {4}{G}
+   Type: Sorcery
+   Text: Search your library for up to X basic land cards, where X is the greatest power among creatures you control. Put those cards onto the battlefield tapped, then shuffle.
+
+1 True Ancestry (TLA)
+   Mana: {1}{G}
+   Type: Sorcery — Lesson
+   Text: Return up to one target permanent card from your graveyard to your hand.
+Create a Clue token. (It's an artifact with "{2}, Sacrifice this token: Draw a card.")
+
+
+## Enchantments (11)
+1 Branching Evolution (MH3)
+   Mana: {2}{G}
+   Type: Enchantment
+   Text: If one or more +1/+1 counters would be put on a creature you control, twice that many +1/+1 counters are put on that creature instead.
+
+1 Earthbender Ascension (TLA)
+   Mana: {2}{G}
+   Type: Enchantment
+   Text: When this enchantment enters, earthbend 2. Then search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Landfall — Whenever a land you control enters, put a quest counter on this enchantment. When you do, if it has four or more quest counters on it, put a +1/+1 counter on target creature you control. It gains trample until end of turn.
+
+1 Garruk's Uprising (FDN)
+   Mana: {2}{G}
+   Type: Enchantment
+   Text: When this enchantment enters, if you control a creature with power 4 or greater, draw a card.
+Creatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)
+Whenever a creature you control with power 4 or greater enters, draw a card.
+
+1 Hardened Scales (FIC)
+   Mana: {G}
+   Type: Enchantment
+   Text: If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.
+
+1 Hydra's Growth (THB)
+   Mana: {2}{G}
+   Type: Enchantment — Aura
+   Text: Enchant creature
+When this Aura enters, put a +1/+1 counter on enchanted creature.
+At the beginning of your upkeep, double the number of +1/+1 counters on enchanted creature.
+
+1 Invasion Tactics (TLA)
+   Mana: {4}{G}
+   Type: Enchantment
+   Text: When this enchantment enters, creatures you control get +2/+2 until end of turn.
+Whenever one or more Allies you control deal combat damage to a player, draw a card.
+
+1 Kenrith's Transformation (AFC)
+   Mana: {1}{G}
+   Type: Enchantment — Aura
+   Text: Enchant creature
+When this Aura enters, draw a card.
+Enchanted creature loses all abilities and is a green Elk creature with base power and toughness 3/3. (It loses all other card types and creature types.)
+
+1 Solid Ground (TLE)
+   Mana: {3}{G}
+   Type: Enchantment
+   Text: When this enchantment enters, earthbend 3. (Target land you control becomes a 0/0 creature with haste that's still a land. Put three +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)
+If one or more +1/+1 counters would be put on a permanent you control, that many plus one +1/+1 counters are put on it instead.
+
+1 Song of the Dryads (CMM)
+   Mana: {2}{G}
+   Type: Enchantment — Aura
+   Text: Enchant permanent
+Enchanted permanent is a colorless Forest land.
+
+1 Tale of Katara and Toph (TLE)
+   Mana: {2}{G}
+   Type: Enchantment
+   Text: Creatures you control have "Whenever this creature becomes tapped for the first time during each of your turns, put a +1/+1 counter on it."
+
+1 Vernal Bloom (8ED)
+   Mana: {3}{G}
+   Type: Enchantment
+   Text: Whenever a Forest is tapped for mana, its controller adds an additional {G}.
+
+
+## Artifacts (3)
+1 Oblivion Stone (MPS)
+   Mana: {3}
+   Type: Artifact
+   Text: {4}, {T}: Put a fate counter on target permanent.
+{5}, {T}, Sacrifice this artifact: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.
+
+1 Sol Ring (TLE)
+   Mana: {1}
+   Type: Artifact
+   Text: {T}: Add {C}{C}.
+
+1 White Lotus Tile (TLA)
+   Mana: {4}
+   Type: Artifact
+   Text: This artifact enters tapped.
+{T}: Add X mana of any one color, where X is the greatest number of creatures you control that have a creature type in common.
+
+
+## Lands (10)
+1 Ba Sing Se (TLA)
+   Type: Land
+   Text: This land enters tapped unless you control a basic land.
+{T}: Add {G}.
+{2}{G}, {T}: Earthbend 2. Activate only as a sorcery. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)
+
+1 Bala Ged Recovery // Bala Ged Sanctuary (PIO)
+   Type: Land
+   Text: Bala Ged Recovery
+Return target card from your graveyard to your hand.
+--- Rückseite ---
+Bala Ged Sanctuary
+This land enters tapped.
+{T}: Add {G}.
+
+1 Blighted Woodland (BFZ)
+   Type: Land
+   Text: {T}: Add {C}.
+{3}{G}, {T}, Sacrifice this land: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+
+1 Disciple of Freyalise // Garden of Freyalise (MH3)
+   Type: Land
+   Text: Disciple of Freyalise
+When this creature enters, you may sacrifice another creature. If you do, you gain X life and draw X cards, where X is that creature's power.
+--- Rückseite ---
+Garden of Freyalise
+As this land enters, you may pay 3 life. If you don't, it enters tapped.
+{T}: Add {G}.
+
+25 Forest (10E)
+   Type: Basic Land — Forest
+   Text: ({T}: Add {G}.)
+
+1 Mosswort Bridge (BLC)
+   Type: Land
+   Text: Hideaway 4 (When this land enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)
+This land enters tapped.
+{T}: Add {G}.
+{G}, {T}: You may play the exiled card without paying its mana cost if creatures you control have total power 10 or greater.
+
+1 Oran-Rief, the Vastwood (BLC)
+   Type: Land
+   Text: This land enters tapped.
+{T}: Add {G}.
+{T}: Put a +1/+1 counter on each green creature that entered this turn.
+
+1 Rogue's Passage (FDN)
+   Type: Land
+   Text: {T}: Add {C}.
+{4}, {T}: Target creature can't be blocked this turn.
+
+1 Shifting Woodland (MH3)
+   Type: Land
+   Text: This land enters tapped unless you control a Forest.
+{T}: Add {G}.
+Delirium — {2}{G}{G}: This land becomes a copy of target permanent card in your graveyard until end of turn. Activate only if there are four or more card types among cards in your graveyard.
+
+1 Terramorphic Expanse (TSR)
+   Type: Land
+   Text: {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+
